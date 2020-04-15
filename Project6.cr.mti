@@ -1,0 +1,204 @@
+{C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/new memory tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/new memory tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory_tb
+-- Compiling architecture mem of memory_tb
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/test2.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/test2.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+** Error (suppressible): C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/test2.vhd(2): (vcom-1491) Empty source files.
+
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/Mux_new.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/Mux_new.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Mux
+-- Compiling architecture behavior of Mux
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/Instructution memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/Instructution memory.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity instructionmemory
+-- Compiling architecture behavioral of instructionmemory
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/IR_New.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/IR_New.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity IR
+-- Compiling architecture behavior of IR
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/pc_new.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/pc_new.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PC
+-- Compiling architecture behaviour of PC
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/new memory source.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/new memory source.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memory1
+-- Compiling architecture mem of memory1
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/andgate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/andgate.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and16
+-- Compiling architecture and16 of and16
+-- Compiling entity or16
+-- Compiling architecture orgate of or16
+-- Compiling entity nand2
+-- Compiling architecture behavior of nand2
+-- Compiling entity nor2
+-- Compiling architecture behavior of nor2
+-- Compiling entity not1
+-- Compiling architecture behavior of not1
+-- Compiling entity xor2
+-- Compiling architecture behavior of xor2
+-- Compiling entity xnor2
+-- Compiling architecture behavior of xnor2
+-- Loading package NUMERIC_STD
+-- Compiling entity mul
+-- Compiling architecture behavior of mul
+-- Loading package NUMERIC_BIT
+-- Loading package std_logic_arith
+-- Compiling entity barrelshifter
+-- Compiling architecture behavior of barrelshifter
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FullAdder16Bit
+-- Compiling architecture behavior of FullAdder16Bit
+-- Compiling entity logicunit
+-- Compiling architecture logicunit of logicunit
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/ALU_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/ALU_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU_tb
+-- Compiling architecture behavior of ALU_tb
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_testbench_new.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_testbench_new.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory_tb
+-- Compiling architecture mem of memory_tb
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/memory.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sync_ram
+-- Compiling architecture RTL of sync_ram
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_new.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_new.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mem16b
+-- Compiling architecture mem1 of mem16b
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_source_code.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_source_code.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memory
+-- Compiling architecture mem of memory
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/controller.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity controller
+-- Compiling architecture controller of controller
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/memory_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_mem16b
+-- Compiling architecture mem2 of tb_mem16b
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/memory_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/memory_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ram_tb
+-- Compiling architecture behav of ram_tb
+-- Loading package NUMERIC_STD
+-- Loading entity sync_ram
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/test.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and16
+-- Compiling architecture and16 of and16
+-- Compiling entity test
+-- Compiling architecture behavior of test
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/ALU_new_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 6/ALU_new_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU_tb
+-- Compiling architecture behavior of ALU_tb
+
+} {} {}} {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Parikshit Dubey/OneDrive - Syracuse University/VHDL/Project 5/New submitted/adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder8
+-- Compiling architecture adder8_structure of adder8
+-- Compiling package fulladd_package
+-- Compiling entity fulladder
+-- Compiling architecture dataflow of fulladder
+
+} {} {}}
