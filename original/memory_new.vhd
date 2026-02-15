@@ -27,7 +27,7 @@ end if;
 end process;
 -- Data to be read out
 DATAOUT <= MEM(to_integer(unsigned(ADDRESS)));
-
+end;
 
 
 

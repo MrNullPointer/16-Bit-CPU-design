@@ -88,7 +88,6 @@ if (presentstate = "10") then
 
 		when "010" =>    ALU_opcode <= opcode1;   ----NAND
 				 ALUmode <= Mode;
-		                 loadIR <= '1';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';			 
@@ -100,7 +99,6 @@ if (presentstate = "10") then
 
 		when "011" =>    ALU_opcode <= opcode1;   ----NOR
 				 ALUmode <= Mode;
-		                 loadIR <= '1';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';			 
@@ -112,7 +110,6 @@ if (presentstate = "10") then
 
 		when "100" =>    ALU_opcode <= opcode1;   ----NOTA
 				 ALUmode <= Mode;
-		                 loadIR <= '1';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';			 
@@ -124,7 +121,6 @@ if (presentstate = "10") then
 
 		when "101" =>    ALU_opcode <= opcode1;   ----NOTB
 				 ALUmode <= Mode;
-		                 loadIR <= '1';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';			 
@@ -136,7 +132,6 @@ if (presentstate = "10") then
 
 		when "110" =>    ALU_opcode <= opcode1;   ----XOR
 				 ALUmode <= Mode;
-		                 loadIR <= '1';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';			 
@@ -148,7 +143,6 @@ if (presentstate = "10") then
 
 		when "111" =>    ALU_opcode <= opcode1;   ----XNOR
 				 ALUmode <= Mode;
-		                 loadIR <= '1';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';			 
@@ -159,7 +153,6 @@ if (presentstate = "10") then
 				 incPC <= '1';
 			when others => ALU_opcode <= opcode1;   ----HALT
 				 ALUmode <= Mode;
-		                 loadIR <= '0';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';
@@ -174,7 +167,6 @@ if (presentstate = "10") then
 	   case opcode1 is
 	    	 when "000" =>   ALU_opcode <= opcode1;   ----ADD
 				 ALUmode <= Mode;
-		                 loadIR <= '1';
 				 loadA  <= '0';
 				 loadB  <= '0';
 				 loadC  <= '0';			 
