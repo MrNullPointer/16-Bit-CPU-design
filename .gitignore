@@ -1,0 +1,30 @@
+# ModelSim / Simulation
+*.wlf
+*.vstf
+*.ucdb
+work/
+transcript
+modelsim.ini
+*.cr.mti
+*.mpf
+
+# Backup files
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Compiled VHDL
+*.o
+*.cf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
